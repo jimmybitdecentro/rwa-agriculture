@@ -8,7 +8,7 @@ const links = [
   { href: "#revenue", label: "Revenue" },
   { href: "#features", label: "Platform" },
   { href: "#security", label: "Security" },
-  { href: "#pricing", label: "Pricing" },
+  
 ];
 
 export function Navbar() {
