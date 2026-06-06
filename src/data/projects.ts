@@ -205,7 +205,7 @@ export const projects: Project[] = [
     gallery: [
       { src: potatoDrone, label: "Tsalka Highland Fields" },
       { src: potatoHarvest, label: "Mechanized Harvest" },
-      { src: foodFactory, title: "French Fries Production", label: "French Fries Production" } as any,
+      { src: foodFactory, label: "French Fries Production" },
       { src: frozenPlant, label: "Frozen Food Facility" },
       { src: tsalkaMasterplan, label: "Industrial Masterplan" },
     ],
